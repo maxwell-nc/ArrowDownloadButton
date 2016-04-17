@@ -9,6 +9,13 @@ Enjoying it :)
 ![sreenshot](https://github.com/fenjuly/ArrowDownloadButton/blob/master/screenshots/arrowdownloadbutton.gif)
 
 ###Usage
+Layout:
+```
+<com.fenjuly.library.ArrowDownloadButton
+    android:id="@+id/arrow_download_button"
+    android:layout_width="180dp"
+    android:layout_height="180dp" />
+```
 One scene is when you want to download something.
 * `startAnimating()`
 * `setProgress()`
